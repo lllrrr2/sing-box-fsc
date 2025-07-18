@@ -163,7 +163,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
   --START_PORT 8881 \
   --PORT_NGINX 60000 \
   --SERVER_IP 123.123.123.123 \
-  --CDN skk.moe\
+  --CDN skk.moe \
   --VMESS_HOST_DOMAIN vmess.test.com \
   --VLESS_HOST_DOMAIN vless.test.com \
   --UUID_CONFIRM 20f7fca4-86e5-4ddf-9eed-24142073d197 \
@@ -183,9 +183,8 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
   --LANGUAGE c \
   --CHOOSE_PROTOCOLS a \
   --START_PORT 8881 \
-  --PORT_NGINX 60000 \
   --SERVER_IP 123.123.123.123 \
-  --CDN skk.moe\
+  --CDN skk.moe \
   --VMESS_HOST_DOMAIN vmess.test.com \
   --VLESS_HOST_DOMAIN vless.test.com \
   --UUID_CONFIRM 20f7fca4-86e5-4ddf-9eed-24142073d197 \
@@ -205,7 +204,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
   --START_PORT 8881 \
   --PORT_NGINX 60000 \
   --SERVER_IP 123.123.123.123 \
-  --CDN skk.moe\
+  --CDN skk.moe \
   --UUID_CONFIRM 20f7fca4-86e5-4ddf-9eed-24142073d197 \
   --SUBSCRIBE=true \
   --ARGO=true \
@@ -225,7 +224,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
   --START_PORT 8881 \
   --PORT_NGINX 60000 \
   --SERVER_IP 123.123.123.123 \
-  --CDN skk.moe\
+  --CDN skk.moe \
   --UUID_CONFIRM 20f7fca4-86e5-4ddf-9eed-24142073d197 \
   --ARGO=true \
   --PORT_HOPPING_RANGE 50000:51000 \
@@ -244,7 +243,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
   --START_PORT 8881 \
   --PORT_NGINX 60000 \
   --SERVER_IP 123.123.123.123 \
-  --CDN skk.moe\
+  --CDN skk.moe \
   --UUID_CONFIRM 20f7fca4-86e5-4ddf-9eed-24142073d197 \
   --SUBSCRIBE=true \
   --ARGO=true \
@@ -266,7 +265,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
   --START_PORT 8881 \
   --PORT_NGINX 60000 \
   --SERVER_IP 123.123.123.123 \
-  --CDN skk.moe\
+  --CDN skk.moe \
   --UUID_CONFIRM 20f7fca4-86e5-4ddf-9eed-24142073d197 \
   --ARGO=true \
   --ARGO_DOMAIN=sb.argo.com \
@@ -287,7 +286,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
   --START_PORT 8881 \
   --PORT_NGINX 60000 \
   --SERVER_IP 123.123.123.123 \
-  --CDN skk.moe\
+  --CDN skk.moe \
   --UUID_CONFIRM 20f7fca4-86e5-4ddf-9eed-24142073d197 \
   --SUBSCRIBE=true \
   --ARGO=true \
@@ -309,7 +308,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
   --START_PORT 8881 \
   --PORT_NGINX 60000 \
   --SERVER_IP 123.123.123.123 \
-  --CDN skk.moe\
+  --CDN skk.moe \
   --UUID_CONFIRM 20f7fca4-86e5-4ddf-9eed-24142073d197 \
   --ARGO=true \
   --ARGO_DOMAIN=sb.argo.com \
